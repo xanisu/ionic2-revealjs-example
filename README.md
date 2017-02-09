@@ -1,8 +1,8 @@
 # ionic2-revealjs-example
-Integrating the awesomeness of Ionic 2 with the great Reveal.js library
+Integrating the awesomeness of Ionic 2 with the great Reveal.js framework
 
 
-Just an example on how to integrate the a Reveal.js framework [Check out the live demo](http://lab.hakim.se/reveal-js/) inside an Ionic 2 app.
+Just an example on how to integrate the [Reveal.js framework](http://lab.hakim.se/reveal-js/) inside an Ionic 2 app.
 
 ## Instalation
 
