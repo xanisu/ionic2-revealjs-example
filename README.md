@@ -9,5 +9,5 @@ Just an example on how to integrate the a Reveal.js framework [Check out the liv
 1. git clone https://github.com/xanisu/ionic2-revealjs-example.git
 2. cd ionic2-revealjs-example
 3. npm install
-4 .ionic serve --lab
+4. ionic serve --lab
 
